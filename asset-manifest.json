@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/zombie-react/static/css/main.848331c8.chunk.css",
+    "main.js": "/zombie-react/static/js/main.4a1d54da.chunk.js",
+    "main.js.map": "/zombie-react/static/js/main.4a1d54da.chunk.js.map",
+    "runtime-main.js": "/zombie-react/static/js/runtime-main.68b83ccc.js",
+    "runtime-main.js.map": "/zombie-react/static/js/runtime-main.68b83ccc.js.map",
+    "static/css/2.af317cf5.chunk.css": "/zombie-react/static/css/2.af317cf5.chunk.css",
+    "static/js/2.86ad6cdf.chunk.js": "/zombie-react/static/js/2.86ad6cdf.chunk.js",
+    "static/js/2.86ad6cdf.chunk.js.map": "/zombie-react/static/js/2.86ad6cdf.chunk.js.map",
+    "index.html": "/zombie-react/index.html",
+    "precache-manifest.79adcf80d8eb27cee0d5e2abcbc5c552.js": "/zombie-react/precache-manifest.79adcf80d8eb27cee0d5e2abcbc5c552.js",
+    "service-worker.js": "/zombie-react/service-worker.js",
+    "static/css/2.af317cf5.chunk.css.map": "/zombie-react/static/css/2.af317cf5.chunk.css.map",
+    "static/css/main.848331c8.chunk.css.map": "/zombie-react/static/css/main.848331c8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68b83ccc.js",
+    "static/css/2.af317cf5.chunk.css",
+    "static/js/2.86ad6cdf.chunk.js",
+    "static/css/main.848331c8.chunk.css",
+    "static/js/main.4a1d54da.chunk.js"
+  ]
+}

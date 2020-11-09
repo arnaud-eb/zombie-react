@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+  color: white;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.zombie-form {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.zombies {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.zombie {
+  background: url("https://cryptozombies.io/course/static/img/tester-bg@2x.png");
+  background-size: 97%;
+  height: 500px;
+  width: 300px;
+  padding-top: 300px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: left; 
+}
+
+.zombie-form input {
+  width: 35%;
+  font-size: 20px;
+  border-radius: 5px;
+  outline: none;
+  padding-left: 15px;
+}
+
+button {
+  background: url("https://cryptozombies.io/course/static/img/btn3.png");
+  background-size: 99.8%;
+  border: none;
+  width: 20%;
+  padding: 15px;
+  font-size: 115% !important;
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+}
